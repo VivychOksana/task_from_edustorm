@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/task_from_edustorm/precache-manifest.0b9ab5eef92c00d0c86af22709242dee.js"
+  "/task_from_edustorm/precache-manifest.ebc74a6bdc4fc75f4ae8d4276212caf9.js"
 );
 
 self.addEventListener('message', (event) => {
